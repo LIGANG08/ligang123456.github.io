@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ligang123456.github.io/"/>
-  <updated>2017-11-21T10:54:08.000Z</updated>
+  <updated>2017-11-21T10:56:52.000Z</updated>
   <id>https://ligang123456.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://ligang123456.github.io/2017/11/21/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/"/>
     <id>https://ligang123456.github.io/2017/11/21/我的头像/</id>
     <published>2017-11-21T10:46:22.000Z</published>
-    <updated>2017-11-21T10:54:08.000Z</updated>
+    <updated>2017-11-21T10:56:52.000Z</updated>
     
-    <content type="html"><![CDATA[<p>图片上传测试<img src="/uploads/blogs.jpg" alt="头像在此"></p>]]></content>
+    <content type="html"><![CDATA[<p>图片上传测试<img src="https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png" alt="头像在此"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;图片上传测试&lt;img src=&quot;/uploads/blogs.jpg&quot; alt=&quot;头像在此&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;图片上传测试&lt;img src=&quot;https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png&quot; alt=&quot;头像在此&quot;&gt;&lt;/p&gt;
 
       
     

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="ligang123456.github.io/"/>
-  <updated>2017-11-22T08:45:54.000Z</updated>
+  <updated>2017-11-22T09:15:59.000Z</updated>
   <id>ligang123456.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo主题更改以及配置更改</title>
+    <link href="ligang123456.github.io/2017/11/22/hexo%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%94%B9/"/>
+    <id>ligang123456.github.io/2017/11/22/hexo主题更改/</id>
+    <published>2017-11-22T09:10:02.000Z</published>
+    <updated>2017-11-22T09:15:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo主题更改以及配置更改:<a href="http://blog.csdn.net/u011172283/article/details/51971387" target="_blank" rel="noopener">http://blog.csdn.net/u011172283/article/details/51971387</a><br>git 高阶用法：<a href="http://hiluluke.cn/" target="_blank" rel="noopener">http://hiluluke.cn/</a><br>hexo.io学习网:<a href="https://hexo.io/zh-cn/docs/deployment.html" target="_blank" rel="noopener">https://hexo.io/zh-cn/docs/deployment.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;hexo主题更改以及配置更改:&lt;a href=&quot;http://blog.csdn.net/u011172283/article/details/51971387&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://blog.csdn.net/u01
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Vue.js官网</title>

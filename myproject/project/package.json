@@ -1,0 +1,18 @@
+{
+  "name": "project",
+  "version": "1.2.8",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "wepy build --watch",
+    "build": "cross-env NODE_ENV=production wepy build --no-cache",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "wepy": "^1.5.8",
+    "wepy-async-function": "^1.4.4",
+    "wepy-com-toast": "^1.0.2"
+  }
+}

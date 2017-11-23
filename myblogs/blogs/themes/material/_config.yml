@@ -22,7 +22,8 @@ url:
 
 # Schemes
 scheme: Paradox
-#scheme: Isolation
+# scheme: Isolation
+# scheme: Mist
 
 # UI & UX: slogan, color, effect
 uiux:
